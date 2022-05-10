@@ -4,6 +4,8 @@ plugins {
 }
 
 android {
+	namespace 'tool.compet.bottomsheet'
+
 	compileSdk 31
 
 	defaultConfig {
